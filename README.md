@@ -1,4 +1,4 @@
-# VayuDrishti 🌫️
+# VayuVision 
 
 ### Delhi NCR Air Pollution Forecasting and Decision Support System
 
