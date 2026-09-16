@@ -327,7 +327,7 @@ This is sufficient for the current prototype and dataset workflow. A production-
 The repository is organized around the parts of the project that we developed during the implementation.
 
 ```text
-VayuDrishti/
+VayuVision/
 │
 ├── backend/
 │   └── main.py
@@ -419,7 +419,7 @@ The backend currently exposes endpoints for the main dashboard functions.
 
 ```bash
 git clone https://github.com/niharika2006bathula-star/VayuDrishti.git
-cd VayuDrishti
+cd VayuVision
 ```
 
 ### 2. Install Python dependencies
@@ -598,7 +598,7 @@ We thank the organizations and open-data communities that make these datasets an
 
 ## Team
 
-**Team Vayu Vision**
+**Team VayuVision**
 
 * **Team Lead:** Gogga Pradeep
 * **Bantu Tanu Sri**
