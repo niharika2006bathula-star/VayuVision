@@ -15,7 +15,7 @@ The project is intended as a working prototype for the SIH problem statement, ra
 
 The current prototype is deployed on Render:
 
-**https://vayudrishti-5.onrender.com**
+**https://vayuvision.onrender.com**
 
 The deployed application contains the current version of the VayuVision dashboard and its backend services.
 
@@ -418,7 +418,7 @@ The backend currently exposes endpoints for the main dashboard functions.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/niharika2006bathula-star/VayuDrishti.git
+git clone https://github.com/Savitharathod053/VayuVision.git
 cd VayuVision
 ```
 
